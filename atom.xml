@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[I Am Talented]]></title>
+  <link href="http://iamtalented.github.io/atom.xml" rel="self"/>
+  <link href="http://iamtalented.github.io/"/>
+  <updated>2014-10-27T22:58:01+08:00</updated>
+  <id>http://iamtalented.github.io/</id>
+  <author>
+    <name><![CDATA[Paying it forward]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
