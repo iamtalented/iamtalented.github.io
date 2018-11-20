@@ -1,0 +1,18 @@
+.writeup {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+}
+
+#partner {
+    padding-right: 16px;
+}
+
+.partner-image {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 128px;
+    margin: auto;
+    display: inline-block;
+}

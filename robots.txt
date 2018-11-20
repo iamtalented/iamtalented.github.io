@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://iamtalented.github.io/sitemap.xml 
